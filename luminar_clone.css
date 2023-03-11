@@ -15,11 +15,11 @@
 }
 
 #crslrow{
-    margin-bottom: 220px;
+    margin-bottom: 200px;
 }
 
 #crslrow2{
-    margin-bottom: 160px;
+    margin-bottom: 150px;
 }
 
 #bton{
@@ -52,6 +52,7 @@
 
     #carousal1{
         height: 300px;
+        font-size: 11px;
     }
 
     #bton{
@@ -59,6 +60,7 @@
         height: 45px;
         font-size: 10px;
     }
+    
 
 }
 
@@ -74,6 +76,7 @@
         height: 40px;
         font-size: 10px;
     }
+
 
     #hed2{
         font-size: 28px;
