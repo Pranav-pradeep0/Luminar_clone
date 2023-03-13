@@ -1,14 +1,20 @@
 /* carousal */
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- body {
-    margin: none;
+
+
+body{
+    margin: 0px;
 }
+
+#header{
+    margin: 0px;
+}
+
 
 #crslinr {
     height: 550px;
 }
 
 #crslitm {
-    padding-top: 76px;
 }
 
 #crslimg {
@@ -87,6 +93,8 @@
     #hed2 {
         font-size: 28px;
     }
+
+    
 }
 
 @media(max-width:400px) {
@@ -150,8 +158,9 @@
 
 #crcecrd{
     transition: 200ms;
-    margin-bottom: 20px;   
-    
+    margin-bottom: 20px;
+    border: none;
+
 }
 
 #crcecrd:hover{
